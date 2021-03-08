@@ -1,0 +1,1 @@
+Scrum nakazuje trzy role: właściciel produktu (Product Owner, który określa wizję produktu oraz priorytety), zespół (Team, implementujący produkt) oraz mistrz Scruma (Scrum Master, który usuwa przeszkody i jest liderem procesu). Kanban nie określa żadnych ról.
