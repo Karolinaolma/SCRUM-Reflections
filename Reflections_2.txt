@@ -1,0 +1,1 @@
+TDD jest to technika tworzenia oprogramowania, można jej używać także do poprawiania istniejącego kodu.
